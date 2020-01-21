@@ -26,19 +26,19 @@ Reference:
 ## Application Snapshots
 
 **Login**
-![Login](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Login.PNG)
+![Login](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Login.PNG)
 
 **Dashboard**
-![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Dashboard.PNG)
+![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Dashboard.PNG)
 
 **Pages**
-![Pages](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Pages.PNG)
+![Pages](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Pages.PNG)
 
 **Page Editor**
-![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/PageEditor.PNG)
+![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/PageEditor.PNG)
 
 **Users**
-![Users](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Users.PNG)
+![Users](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Users.PNG)
 
 
 
@@ -48,7 +48,7 @@ Reference:
 
 2.  Create a file named index.html.
 
-3.  (Ctrl-u to view html source.  Or, prepend view-source: in front of the url) Open url: view-source:https://getbootstrap.com/docs/3.4/examples/starter-template/
+3.  (Ctrl-u to view html source.  Or, prepend view-source: in front of the url) Open url: view-source:https://getbootstrap.com/docs/3.4/examples/starter-./templates/
     copy the source content  and paste it to index.html
 
 4.  Go through the index.html file and delete unneccessary code; to simplify the design of the dashboard.
