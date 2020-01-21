@@ -26,19 +26,19 @@ Reference:
 ## Application Snapshots
 
 **Login**
-![Login](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Login.PNG)
+![Login](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Login.PNG)
 
 **Dashboard**
-![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Dashboard.PNG)
+![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Dashboard.PNG)
 
 **Pages**
-![Pages](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Pages.PNG)
+![Pages](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Pages.PNG)
 
 **Page Editor**
-![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/PageEditor.PNG)
+![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/PageEditor.PNG)
 
 **Users**
-![Users](https://github.com/hurricanemark/SCM-bootstrap-./templates/blob/master/assets/img/Users.PNG)
+![Users](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Users.PNG)
 
 
 
