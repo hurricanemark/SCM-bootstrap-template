@@ -25,15 +25,15 @@ Reference:
 
 ## Application Snapshots
 
-![Login](file:///assets/img/Login.png)
+![Login](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Login.PNG)
 
-![Dashboard](file:///assets/img/Dashboard.png)
+![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Dashboard.png)
 
-![Pages](.file:///assets/img/Pages.png)
+![Pages](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Pages.png)
 
-![PageEditor](.file:///assets/img/PageEditor.png)
+![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/PageEditor.png)
 
-![Users](.file:///assets/img/Users.png)
+![Users](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Users.png)
 
 
 
