@@ -4,15 +4,16 @@
 Bootstrap v3.3.7 -- HTML, CSS, and JS framework 
 '''
 
-# Date: 01/17/2020
+Date: 01/17/2020
 
-# Project: Build A SCM Admin Bootstrap Theme From Scratch
+Project: Build A SCM Admin Bootstrap Theme From Scratch
+
+Environment: Windows 10
 
 # Ref: (Traversy Media) https://www.youtube.com/watch?v=pXbEcGUtHgo
 
 # https://getbootstrap.com, http://cdn.ckeditor.com/, https://work.smarchal.com/twbscolor/
 
-# Environment: Windows 10
 
 # Tech stack: Javascript, CSS, HTML Bootstrap, 
 
