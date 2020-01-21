@@ -37,3 +37,7 @@ Environment: Windows 10
 7.  Most components and javascripts can be found, coppied and pasted from https://getbootstrap.com/docs/3.4/customize/
 
 8.  Use http://cdn.ckeditor.com/ to speed up CKEditor code
+
+## Todos
+
+Impelement backend to complete MEAN or MERN application stack.
