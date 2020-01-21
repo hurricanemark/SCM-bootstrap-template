@@ -27,13 +27,13 @@ Reference:
 
 ![Login](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Login.PNG)
 
-![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Dashboard.png)
+![Dashboard](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Dashboard.PNG)
 
-![Pages](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Pages.png)
+![Pages](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Pages.PNG)
 
-![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/PageEditor.png)
+![PageEditor](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/PageEditor.PNG)
 
-![Users](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Users.png)
+![Users](https://github.com/hurricanemark/SCM-bootstrap-template/blob/master/assets/img/Users.PNG)
 
 
 
