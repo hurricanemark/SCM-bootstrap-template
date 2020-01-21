@@ -10,24 +10,29 @@ Project: Build A SCM Admin Bootstrap Theme From Scratch
 
 Environment: Windows 10
 
-# Ref: (Traversy Media) https://www.youtube.com/watch?v=pXbEcGUtHgo
+Reference: 
+(Traversy Media)[https://www.youtube.com/watch?v=pXbEcGUtHgo]
 
-# https://getbootstrap.com, http://cdn.ckeditor.com/, https://work.smarchal.com/twbscolor/
+(Bootstrap)[https://getbootstrap.com], 
+
+(CKEditor)[http://cdn.ckeditor.com/], 
+
+(TWBSColor)[https://work.smarchal.com/twbscolor/]
 
 
 # Tech stack: Javascript, CSS, HTML Bootstrap, 
 
 ## Application Snapshots
 
-![Login](assets/img/Login.png)
+![Login](./assets/img/Login.png)
 
-![Dashboard](assets/img/Dashboard.png)
+![Dashboard](./assets/img/Dashboard.png)
 
-![Pages](assets/img/Pages.png)
+![Pages](./assets/img/Pages.png)
 
-![PageEditor](assets/img/PageEditor.png)
+![PageEditor](./assets/img/PageEditor.png)
 
-![Users](assets/img/Users.png)
+![Users](./assets/img/Users.png)
 
 
 
