@@ -17,7 +17,21 @@ Environment: Windows 10
 
 # Tech stack: Javascript, CSS, HTML Bootstrap, 
 
----------------------
+## Application Snapshots
+
+![Login](assets/img/Login.png)
+
+![Dashboard](assets/img/Dashboard.png)
+
+![Pages](assets/img/Pages.png)
+
+![PageEditor](assets/img/PageEditor.png)
+
+![Users](assets/img/Users.png)
+
+
+
+## Implementation Notes
 
 1.  Created folder E:\BOOTSTRAP-PRJ
 
